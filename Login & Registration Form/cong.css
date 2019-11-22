@@ -1,0 +1,33 @@
+body{
+	 background: url(simple.jpg);
+	 background-size:cover; 
+
+
+}
+
+a{
+	color: Coral;
+	font-family: Tahoma, Geneva, sansa-serif;
+	margin-left: 30px;
+}
+
+a:hover{
+	color: blue;
+}
+
+.cong{
+	background: rgba(44,62,80,0.7);
+	padding: 40px;
+	margin-top: 80px;
+	height: 220px;
+	margin-left: 180px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 225px;
+	width: 240px;
+}
+
+h2{
+	margin-top: 50px;
+	margin-left: 10px;
+}
